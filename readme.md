@@ -29,9 +29,9 @@ This project uses Three.js to create a 3D Fly-through wormhole. The user's camer
     ```
 
 - Run npm run dev to start the development server 🚀
-- ```npm
+ - ```npm
    npm run dev
-  ```
+   ```
 
 - Open http://localhost:3000 in your browser to view the wormhole.
 
